@@ -47,7 +47,7 @@ const createFooter = () => {
     <hr>
     <div class="container py-4">
         <div class="copyright">
-            &copy; Copyright <strong>Fashion</strong>.All Rights Reserved
+            &copy; Copyright All Rights Reserved
         </div>
         <div class="credits">
             Designed By <a href="#">SA Cris</a>
